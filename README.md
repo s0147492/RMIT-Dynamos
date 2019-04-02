@@ -1,32 +1,69 @@
-## Welcome to GitHub Pages
+# RMIT-Dynamos
+RMIT Dynamos - Introduction2IT Assignment Group 16
 
-You can use the [editor on GitHub](https://github.com/s0147492/RMIT-Dynamos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Team Profile
+### Members:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+James Phelam
+Student ID: s3795086
+https://j-phelan.github.io
 
-### Markdown
+Karla Mc
+Student ID: s3775612
+https://kammac80.github.io/Karla-My-Profile/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Marty Misomikes
+Student ID: s3756306
+https://imiso89.github.io/Marty-Misomikes/
 
-```markdown
-Syntax highlighted code block
+Steve Davies
+Student ID: s0147492
+https://s0147492.github.io/Intro2IT/
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+
+
+
+
+
+## Interview: 
+Matt Grant - Owner Operator Business IT Contractor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### GitHub Minimal Theme: 
+https://jekyllthemes.io/theme/minimal
+https://github.com/orderedlist/minimal
+
 
 ### Jekyll Themes
 
