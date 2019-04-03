@@ -1,34 +1,16 @@
 # RMIT-Dynamos
-RMIT Dynamos - Introduction2IT Assignment Group 16
-https://s0147492.github.io/RMIT-Dynamos/
 
 
-## Team Profile
-### Members:
-##### Website & Team Profile:  by Steve Davies and James Phelan
 
-James Phelan
-Student ID: s3795086
-https://j-phelan.github.io
 
-Karla Mc
-Student ID: s3775612
-https://kammac80.github.io/Karla-My-Profile/
 
-Marty Misomikes
-Student ID: s3756306
-https://imiso89.github.io/Marty-Misomikes/
 
-Steve Davies
-Student ID: s0147492
-https://s0147492.github.io/Intro2IT/
 
 The test outcomes for all members of RMIT Dynamos vary, 
 providing multiple different ways of performing in groups and achieving common goals. 
 There are a few traits shared by different team members but overall there is quite a variety of personality traits, learning styles and other approaches to working in groups. 
 The diversity within RMIT Dynamos should work well in achieving the tasks set out before us.
 
-### Ideal Jobs:
 
 James and Karla are both more focused on analyst roles, leaning towards the business side of a company. Analysing companies to improve efficiency and productivity are both traits shared by Business Analysts and Data Analysts. Steve and Marty are both more focused on technical IT roles, with Steve leaning towards the management of technology that has already been implemented, while Marty in a developer role would provide implementation of new technical software. 
 
