@@ -9,7 +9,7 @@
 ##### James Phelan
 [Student ID: s3795086](https://j-phelan.github.io)
 
-##### Karla Mc
+##### Karla McLachlan
 [Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
 
 ##### Marty Misomikes
@@ -126,7 +126,7 @@ Matt Grant - Owner Operator Business IT Contractor
 ##### by Steve Davies
 
 ### Raspberry Pi:
-##### by Karla Mc
+##### by Karla McLachlan
 
 ## Team Project 
 
