@@ -6,18 +6,6 @@
 ## Members:
 #### Website & Team Profile:  by Steve Davies and James Phelan
 
-##### James Phelan
-[Student ID: s3795086](https://j-phelan.github.io)
-
-##### Karla McLachlan
-[Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
-
-##### Marty Misomikes
-[Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
-
-##### Steve Davies
-[Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
-
 
 
 ## Psychometrics Report Findings:
@@ -60,7 +48,6 @@ The test outcomes for all members of RMIT Dynamos vary, providing multiple diffe
 
 ## Ideal Jobs:
   
-Compare and contrast the ideal jobs for each person in the group. This may have changed due to feedback from Assignment 1. What common elements are there, if any? What differentiates each position from the others, if anything? How similar or different are your career plans across the group?  
   
   
 James: Business Analyst (Planning, data analysis, communication, financial modelling) 
@@ -74,8 +61,6 @@ Even though there is shared traits between team members, each person’s career 
  
 
 
-### [Group Project Links:](https://s0147492.github.io/RMIT-Dynamos/)
-
 
 ### Group Evaluation:
 
@@ -84,8 +69,6 @@ Even though there is shared traits between team members, each person’s career 
 
 
 
-
-### Industry Data Report:
 ##### by Marty Misomikes
 
 
@@ -95,8 +78,6 @@ Even though there is shared traits between team members, each person’s career 
 
 
 
-
-## IT Professional Interview: 
 ##### Interview conducted by Steve Davies - Group Questions & Discussion
 Matt Grant - Owner Operator Business IT Contractor
 
@@ -114,8 +95,6 @@ Matt Grant - Owner Operator Business IT Contractor
 
 
 
-## IT Techonlogies Reports:
-
 ### Blockchain and Cryptocurrencies:
 ##### by James Phelan
 
@@ -127,9 +106,6 @@ Matt Grant - Owner Operator Business IT Contractor
 
 ### Raspberry Pi:
 ##### by Karla McLachlan
-
-## Team Project 
-
 
 
 
