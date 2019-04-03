@@ -1,20 +1,42 @@
 # RMIT-Dynamos
-## [RMIT Dynamos - Introduction2IT Assignment Group 16](https://s0147492.github.io/RMIT-Dynamos/)
+RMIT Dynamos - Introduction2IT Assignment Group 16
+https://s0147492.github.io/RMIT-Dynamos/
 
 
-# Team Profile
-## Members:
-#### Website & Team Profile:  by Steve Davies and James Phelan
+## Team Profile
+### Members:
+##### Website & Team Profile:  by Steve Davies
 
+<<<<<<< HEAD
 |Group Members|Profile Links|
 |---|---|
 | James Phelan| [Student ID: s3795086](https://j-phelan.github.io)
 | Karla McLachlan| [Student ID: s3775612](https://kammac80.github.io/Karla-My-Profile/)
 | Marty Misomikes| [Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
 | Steve Davies| [Student ID: s0147492](https://s0147492.github.io/Intro2IT/)|
+=======
+James Phelan
+Student ID: s3795086
+https://j-phelan.github.io
+
+Karla Mc
+Student ID: s3775612
+https://kammac80.github.io/Karla-My-Profile/
+
+Marty Misomikes
+Student ID: s3756306
+https://imiso89.github.io/Marty-Misomikes/
+
+Steve Davies
+Student ID: s0147492
+https://s0147492.github.io/Intro2IT/
+
+### Ideal Jobs:
+>>>>>>> 161723a09cb8d554b969460c5de30bfe3841638b
 
 ---
 
+<<<<<<< HEAD
 ## Psychometrics Report Findings:
 ##### by James Phelan
 
@@ -74,6 +96,9 @@ Even though there is shared traits between team members, each person’s career 
 ---
 
 ## [Group Project Links:](https://s0147492.github.io/RMIT-Dynamos/)
+=======
+### Group Project Links:
+>>>>>>> 161723a09cb8d554b969460c5de30bfe3841638b
 
 
 ### Group Evaluation:
@@ -125,18 +150,29 @@ Matt Grant - Owner Operator Business IT Contractor
 ##### by Steve Davies
 
 ### Raspberry Pi:
+<<<<<<< HEAD
 ##### by Karla McLachlan
 
 ## Team Project:
 #### Group Collaboration - by Karla McLachlan
+=======
+##### by Karla Mc
+
+>>>>>>> 161723a09cb8d554b969460c5de30bfe3841638b
 
 
 
 
+<<<<<<< HEAD
 ---
 #### [GitHub Minimal Theme:](https://jekyllthemes.io/theme/minimal)
 [GitHub theme:](https://github.com/orderedlist/minimal)
+=======
+>>>>>>> 161723a09cb8d554b969460c5de30bfe3841638b
 
+#### GitHub Minimal Theme: 
+https://jekyllthemes.io/theme/minimal
+https://github.com/orderedlist/minimal
 
 
 ### Jekyll Themes
