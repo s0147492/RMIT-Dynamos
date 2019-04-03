@@ -18,11 +18,60 @@
 ##### Steve Davies
 [Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
 
+
+
 ## Psychometrics Report Findings:
 
+The test outcomes for each person in the team (all 3 tests), and your understanding of how this information may be helpful to the group. You should do this as soon as your group is formed. You will have a chance to reflect on how well the group has worked later.
 
+### James:
 
+· Myers-Briggs test: ESTJ (Extraversion, Sensing, Thinking, Judgment)
 
+· learning style test: Visual Learner
+
+· The results of an Interpersonal Skills Self Assessment: Total score: Comprised of 63% Listening Skills, 75% Emotional Intelligence, 86% Verbal Communication, 80% Communicating in Groups.
+
+### Steve:
+
+· Myer Briggs: INFP (introversion, intuition, feeling, perception)
+
+· Learning Styles: Tactile (learn by touching/doing)
+
+· Big 5 Personality: 20% Extroversion 84% Agreeableness 46% Conscientiousness 46% Openness 71% Neuroticism
+
+### Karla:
+
+· Myer Briggs: INFJ (Introversion, Intuition, Feeling, Judging)
+
+· Learning Styles: Visual Learner
+
+· Integrity Test – 80% Honesty outlook.
+
+### Marty:
+
+· Myer Briggs: ISFP (Introversion, Sensing, Feeling, Perception)
+
+· Learning Styles: Multimodal
+
+· Big 5 Personality: Extroversion
+
+The test outcomes for all members of RMIT Dynamos vary, providing multiple different ways of performing in groups and achieving common goals. There are a few traits shared by different team members but overall there is quite a variety of personality traits, learning styles and other approaches to working in groups. The diversity within RMIT Dynamos should work well in achieving the tasks set out before us.
+
+## Ideal Jobs:
+  
+Compare and contrast the ideal jobs for each person in the group. This may have changed due to feedback from Assignment 1. What common elements are there, if any? What differentiates each position from the others, if anything? How similar or different are your career plans across the group?  
+  
+  
+James: Business Analyst (Planning, data analysis, communication, financial modelling) 
+Steve: Technology Services Manager (Experience working with a range of software, hardware and networking. Good communication. Proficient in MS Applications. Quick learner. Flexible)  
+Karla: Data Analyst (Planning capability. Understanding data flow & gathering. Communication with stakeholders. Producing hypothesis with data for business progression.) 
+Marty: Software Developer/Programmer (Experience in multiple programming languages,  
+  
+James and Karla are both more focused on analyst roles, leaning towards the business side of a company. Analysing companies to improve efficiency and productivity are both traits shared by Business Analysts and Data Analysts. Steve and Marty are both more focused on technical IT roles, with Steve leaning towards the management of technology that has already been implemented, while Marty in a developer role would provide implementation of new technical software.  
+  
+Even though there is shared traits between team members, each person’s career path is different and provides an insight into where one degree can lead to so many different paths. 
+ 
 
 
 ### [Group Project Links:](https://s0147492.github.io/RMIT-Dynamos/)
