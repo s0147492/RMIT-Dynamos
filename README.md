@@ -17,7 +17,6 @@ James and Karla are both more focused on analyst roles, leaning towards the busi
 Even though there is shared traits between team members, each person’s career path is different and provides an insight into where one degree can lead to so many different paths.
 
 
-### Group Project Links:
 
 
 ### Group Evaluation:
@@ -76,9 +75,6 @@ Matt Grant - Owner Operator Business IT Contractor
 
 
 
-#### GitHub Minimal Theme: 
-https://jekyllthemes.io/theme/minimal
-https://github.com/orderedlist/minimal
 
 
 ### Jekyll Themes
