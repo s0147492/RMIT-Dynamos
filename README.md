@@ -34,7 +34,6 @@ The test outcomes for each person in the team (all 3 tests), and your understand
 
 ### Steve:
 
-· Myer Briggs: INFP (introversion, intuition, feeling, perception)
 
 · Learning Styles: Tactile (learn by touching/doing)
 
