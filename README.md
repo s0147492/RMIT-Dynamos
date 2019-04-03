@@ -34,6 +34,7 @@ The test outcomes for each person in the team (all 3 tests), and your understand
 
 ### Steve:
 
+· Myer Briggs: INFP (Introversion, iNtuition, Feeling, Perception)
 
 · Learning Styles: Tactile (learn by touching/doing)
 
@@ -41,6 +42,7 @@ The test outcomes for each person in the team (all 3 tests), and your understand
 
 ### Karla:
 
+· Myer Briggs: INFJ (Introversion, iNtuition, Feeling, Judging)
 
 · Learning Styles: Visual Learner
 
