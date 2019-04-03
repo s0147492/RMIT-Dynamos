@@ -1,32 +1,14 @@
 # RMIT-Dynamos
-RMIT Dynamos - Introduction2IT Assignment Group 16
-https://s0147492.github.io/RMIT-Dynamos/
 
 
-## Team Profile
-### Members:
-##### Website & Team Profile:  by Steve Davies
-
-James Phelan
-Student ID: s3795086
-https://j-phelan.github.io
-
-Karla Mc
-Student ID: s3775612
-https://kammac80.github.io/Karla-My-Profile/
-
-Marty Misomikes
-Student ID: s3756306
-https://imiso89.github.io/Marty-Misomikes/
-
-Steve Davies
-Student ID: s0147492
-https://s0147492.github.io/Intro2IT/
-
-### Ideal Jobs:
 
 
-### Group Project Links:
+## Psychometrics Report Findings:
+
+
+
+
+
 
 
 ### Group Evaluation:
@@ -39,8 +21,6 @@ https://s0147492.github.io/Intro2IT/
 
 ### Industry Data Report:
 ##### by Marty Misomikes
-
-
 
 
 
@@ -62,8 +42,8 @@ Matt Grant - Owner Operator Business IT Contractor
 
 
 
-
-
+## Industry Data:
+##### by Marty Misomikes
 
 
 ## IT Techonlogies Reports:
@@ -78,16 +58,13 @@ Matt Grant - Owner Operator Business IT Contractor
 ##### by Steve Davies
 
 ### Raspberry Pi:
-##### by Karla Mc
 
 
 
+## Group Feedback:
 
 
 
-#### GitHub Minimal Theme: 
-https://jekyllthemes.io/theme/minimal
-https://github.com/orderedlist/minimal
 
 
 ### Jekyll Themes
