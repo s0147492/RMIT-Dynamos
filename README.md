@@ -1,5 +1,5 @@
 # RMIT-Dynamos
-## [RMIT Dynamos - Introduction2IT Assignment Group 16](https://s0147492.github.io/RMIT-Dynamos/)
+## [RMIT Dynamos - Introduction2IT Assignment Group 16](https://s0147492.github.io/RMIT-Dynamos/index.html)
 
 [GitHub:](https://github.com/s0147492/RMIT-Dynamos)
 
