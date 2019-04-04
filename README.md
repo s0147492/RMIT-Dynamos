@@ -15,18 +15,23 @@
 ---
 
 ## Psychometrics Report Findings:
+##### by James Phelan
 
 The test outcomes for all members of RMIT Dynamos vary, 
 providing multiple different ways of performing in groups and achieving common goals. 
 There are a few traits shared by different team members but overall there is quite a variety of personality traits, learning styles and other approaches to working in groups. 
 The diversity within RMIT Dynamos should work well in achieving the tasks set out before us. by James Phelan
 
+---
+
 ## Ideal Jobs:
+##### by James Phelan
 
 James and Karla are both more focused on analyst roles, leaning towards the business side of a company. Analysing companies to improve efficiency and productivity are both traits shared by Business Analysts and Data Analysts. Steve and Marty are both more focused on technical IT roles, with Steve leaning towards the management of technology that has already been implemented, while Marty in a developer role would provide implementation of new technical software. 
 
 Even though there is shared traits between team members, each person’s career path is different and provides an insight into where one degree can lead to so many different paths. by James Phelan
 
+---
 
 ### [Group Project Links:](https://s0147492.github.io/RMIT-Dynamos/)
 
@@ -37,6 +42,7 @@ Even though there is shared traits between team members, each person’s career 
 ### Team Dynamics:
 
 
+---
 
 ### Industry Data Report:
 ##### by Marty Misomikes
@@ -61,10 +67,12 @@ Matt Grant - Owner Operator Business IT Contractor
 
 
 
+---
 
 ## Industry Data:
 ##### by Marty Misomikes
 
+---
 
 ## IT Techonlogies Reports:
 
@@ -81,6 +89,7 @@ Matt Grant - Owner Operator Business IT Contractor
 ##### by Karla McLachlan
 
 
+---
 
 ## Group Feedback:
 ##### by All Group Members
