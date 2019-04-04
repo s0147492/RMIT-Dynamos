@@ -38,7 +38,6 @@ Even though there is shared traits between team members, each person’s career 
 
 
 
-
 ### Industry Data Report:
 ##### by Marty Misomikes
 
@@ -53,7 +52,6 @@ Even though there is shared traits between team members, each person’s career 
 ## IT Professional Interview: 
 ##### Interview conducted by Steve Davies - Group Questions & Discussion
 Matt Grant - Owner Operator Business IT Contractor
-
 
 
 
@@ -81,7 +79,6 @@ Matt Grant - Owner Operator Business IT Contractor
 
 ### Raspberry Pi:
 ##### by Karla McLachlan
-
 
 
 
