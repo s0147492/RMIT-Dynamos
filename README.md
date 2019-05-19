@@ -16,8 +16,9 @@
 |Marty Misomikes|[Student ID: s3756306](https://imiso89.github.io/Marty-Misomikes/)
 | Steve Davies|[Student ID: s0147492](https://s0147492.github.io/Intro2IT/)
 ---
-#Updated: Assignment 3:
-##Team Tools
+
+# Updated: Assignment 3:
+## Team Tools
 RMIT Dynamos Webpage links:	https://rmit-dynamos.github.io/RMIT-Dynamos/	
 RMIT Dynamos Github:		https://github.com/RMIT-Dynamos/RMIT-Dynamos
 RMIT Dynamos [TEAMS Project link](https://teams.microsoft.com/_#/files/General?threadId=19%3A32b839b9a8aa4da4a75e5c71f7ee86a3%40thread.skype&ctx=channel&context=Assignment3)
