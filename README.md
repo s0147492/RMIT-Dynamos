@@ -1,5 +1,5 @@
 # RMIT-Dynamos
-## [RMIT Dynamos - Introduction2IT Assignment Group 16](https://s0147492.github.io/RMIT-Dynamos/index.html)
+## [RMIT Dynamos - Introduction to Information Technology Assignment Group 16](https://rmit-dynamos.github.io/RMIT-Dynamos/)
 
 [GitHub:](https://github.com/s0147492/RMIT-Dynamos)
 
@@ -116,57 +116,7 @@ Even though there are shared traits between team members, each person’s career
 
 ---
 
-### Industry Data Report:
-##### by Marty Misomikes
 
-
-
-
-
-
-
----
-# IT Work:
-## IT Professional Interview: 
-##### Interview conducted by Steve Davies - Group Questions & Discussion
-Matt Grant - Owner Operator Business IT Contractor
-
-
-
-
-
-
-
-
-
----
-
-## Industry Data:
-##### by Marty Misomikes
-
----
-
-## IT Techonlogies Reports:
-
-### Blockchain and Cryptocurrencies:
-##### by James Phelan
-
-### Cloud Computing:
-##### by Marty Misomikes
-
-### CyberSecurity:
-##### by Steve Davies
-
-### Raspberry Pi:
-##### by Karla McLachlan
-
-
----
-
-## Group Feedback:
-##### by All Group Members
-
----
 
 #### [GitHub Minimal Theme:](https://jekyllthemes.io/theme/minimal)
 [GitHub theme:](https://github.com/orderedlist/minimal)
@@ -183,15 +133,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s0147492/RMIT-Dynamos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
